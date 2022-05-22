@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+
+# dnsresolver.py omarfayyad.com
+# author: Omar Fayyad
+#
+# script uses one argument as the domain
+#        
+#
+# example: webenum.sh omarfayyad.com
+# 
+#----------------------------------------------------------------------------------
 import dns.resolver
 import sys
 
