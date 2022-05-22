@@ -35,6 +35,3 @@ for records in record_types:
 	except KeyboardInterrupt:
 		print('Just quitting. Run it again if you like!')
 		quit()
-	
-
-
